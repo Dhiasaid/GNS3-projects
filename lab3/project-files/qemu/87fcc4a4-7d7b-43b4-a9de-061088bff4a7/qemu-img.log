@@ -1,0 +1,1 @@
+Formatting '/home/bald/GNS3/projects/lab3/project-files/qemu/87fcc4a4-7d7b-43b4-a9de-061088bff4a7/hdb_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=1048576 backing_file=/home/bald/GNS3/images/QEMU/IOSv_startup_config.img backing_fmt=raw lazy_refcounts=off refcount_bits=16
